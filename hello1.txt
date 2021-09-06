@@ -2,3 +2,5 @@ version 1
 version 2 added with nano..?
 version2 add with echo!
 3
+git remote test
+wow
